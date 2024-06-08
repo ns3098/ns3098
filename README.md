@@ -27,7 +27,7 @@
 <p>
 <br> <br>
 
-- 👨 Currently working as Senior Software Engineer at [Clootrack](https://www.linkedin.com/company/clootrack).
+- 👨 Currently working as Lead Software Engineer at [Clootrack](https://www.linkedin.com/company/clootrack).
 - 🔭 Some tech stacks I love working with are Nodejs, Typescript, TypeORM, Django, NestJS, etc.
 - 💬 Ask me about anything :D.
 - ⚡ Fun fact: The first computer bug was an actual bug :D
